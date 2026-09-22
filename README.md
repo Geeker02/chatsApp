@@ -114,10 +114,5 @@ chatsApp/
 ## 👤 Author
 
 **Jaydeep Jogdand**  
-- GitHub: [@jaydeepjogdand](https://github.com/jaydeepjogdand)  
+- GitHub: [@Geeker02](https://github.com/Geeker02)  
 - Email: jaydeepjogdand@gmail.com
-
----
-
-## 📄 License
-This project is open-source and available under the [MIT License](LICENSE).
