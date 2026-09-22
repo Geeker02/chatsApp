@@ -1,0 +1,9 @@
+{
+  "short_name": "ChatsApp",
+  "name": "ChatsApp WhatsApp Clone",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
