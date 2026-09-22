@@ -16,6 +16,27 @@ A modern, full-stack real-time communication platform built with **Spring Boot 3
 
 ---
 
+## 📸 Screenshots
+
+| Screen | Preview |
+|---|---|
+| **Login Page** | ![Login Page](screenshots/LoginPage.jpg) |
+| **Sign Up Page** | ![Sign Up Page](screenshots/SignUp.jpg) |
+| **Main Chat Interface** | ![Home Page](screenshots/HomePage.jpg) |
+| **1-on-1 Chat Messaging** | ![Chat 1](screenshots/Chat1.jpg) |
+| **Active Chat View** | ![Chat 2](screenshots/chat2.jpg) |
+| **Create Group Chat** | ![Create Group](screenshots/CreateGroup.jpg) |
+| **Add Members to Group** | ![Add Members](screenshots/Add_member_to_Group.jpg) |
+| **Set Group Avatar** | ![Group Avatar](screenshots/Add_Profile_Picture_to_Group.jpg) |
+| **Group Created Successfully** | ![Group Created](screenshots/GroupCreated.jpg) |
+| **Real-Time Group Sync** | ![Group Sync](screenshots/Group_Seen_in_both_chat.jpg) |
+| **WhatsApp-style Status List** | ![Status Home](screenshots/Status_Home_Page.jpg) |
+| **Status Story Viewer** | ![Status View](screenshots/Status_View.jpg) |
+| **Profile Settings** | ![Profile](screenshots/Profile.jpg) |
+| **Navigation & Options Menu** | ![Settings Option](screenshots/Setting_Option.jpg) |
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Backend
